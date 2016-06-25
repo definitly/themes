@@ -5,7 +5,7 @@ login=definitly
 tar -xpJf human4.10.txz
 
 
-sudo cp $CURRENTDIRECTORY/human4.10/dzenconky   /usr/local/bin/
+doas cp $CURRENTDIRECTORY/human4.10/dzenconky   /usr/local/bin/
 
 
 
